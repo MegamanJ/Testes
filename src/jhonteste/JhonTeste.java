@@ -17,6 +17,10 @@ public class JhonTeste {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Olá Mundo");
+        int a = 1;
+        int b = 2;
+        System.out.println(a+b); 
+       
     }
     
 }
